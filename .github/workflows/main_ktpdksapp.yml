@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ktpdksapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C6731A78B7694B3AAD4D2010FA01EBE0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DDF2953191C4D6ABC5759C7C554CDA8 }}
